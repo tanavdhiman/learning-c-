@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+
+	
+int main()
+{ 
+char grade ='A';
+string phase="dps";
+int age=11;
+double gpa=4.5;
+bool ismale=false;
+
+}  
